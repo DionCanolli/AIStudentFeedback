@@ -1,0 +1,103 @@
+﻿@page
+@model AIFeedbackSystem.Pages.Dashboard.IndexModel
+@{
+    ViewData["Title"] = "Dashboard";
+}
+
+<section class="dashboard-head">
+    <div class="intro">
+        <p class="eyebrow">Overview</p>
+        <h1>What students are saying</h1>
+        <p class="lede">Sentiment and topic totals from every saved comment.</p>
+    </div>
+    <article class="stat-card">
+        <span>Responses</span>
+        <strong>@Model.TotalFeedback</strong>
+    </article>
+</section>
+
+@if (Model.ErrorMessage != null)
+{
+    <p class="notice warning">@Model.ErrorMessage</p>
+}
+else if (Model.TotalFeedback == 0)
+{
+    <section class="panel">
+        <p class="empty">No feedback yet. The charts appear after the first comment.</p>
+    </section>
+}
+else
+{
+    <section class="chart-grid">
+        <article class="chart-card">
+            <h2>Sentiment</h2>
+            <div class="chart-frame">
+                <canvas id="sentimentChart"></canvas>
+            </div>
+        </article>
+        <article class="chart-card">
+            <h2>Topics</h2>
+            <div class="chart-frame">
+                <canvas id="topicChart"></canvas>
+            </div>
+        </article>
+    </section>
+}
+
+@section Scripts {
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script>
+        const sentimentLabels = @Html.Raw(Json.Serialize(Model.SentimentSummary.Select(s => s.Sentiment)));
+        const sentimentCounts = @Html.Raw(Json.Serialize(Model.SentimentSummary.Select(s => s.Count)));
+        const topicLabels = @Html.Raw(Json.Serialize(Model.TopicSummary.Select(t => t.Topic)));
+        const topicCounts = @Html.Raw(Json.Serialize(Model.TopicSummary.Select(t => t.Count)));
+        const sentimentColors = { Positive: "#1f7a4d", Negative: "#c2412d", Neutral: "#c9892d" };
+        const font = { family: "Outfit, Segoe UI, sans-serif" };
+
+        Chart.defaults.font.family = font.family;
+        Chart.defaults.color = "#5e6a64";
+
+        if (document.getElementById("sentimentChart")) {
+            new Chart(document.getElementById("sentimentChart"), {
+                type: "doughnut",
+                data: {
+                    labels: sentimentLabels,
+                    datasets: [{
+                        data: sentimentCounts,
+                        backgroundColor: sentimentLabels.map(label => sentimentColors[label] || "#8d98a3"),
+                        borderWidth: 0
+                    }]
+                },
+                options: {
+                    maintainAspectRatio: false,
+                    cutout: "62%",
+                    plugins: { legend: { position: "bottom" } }
+                }
+            });
+        }
+
+        if (document.getElementById("topicChart")) {
+            new Chart(document.getElementById("topicChart"), {
+                type: "bar",
+                data: {
+                    labels: topicLabels,
+                    datasets: [{
+                        label: "Comments",
+                        data: topicCounts,
+                        backgroundColor: "#0f6e62",
+                        borderRadius: 8,
+                        maxBarThickness: 48
+                    }]
+                },
+                options: {
+                    maintainAspectRatio: false,
+                    plugins: { legend: { display: false } },
+                    scales: {
+                        x: { grid: { display: false } },
+                        y: { beginAtZero: true, ticks: { precision: 0 }, grid: { color: "#eee7dc" } }
+                    }
+                }
+            });
+        }
+    </script>
+}

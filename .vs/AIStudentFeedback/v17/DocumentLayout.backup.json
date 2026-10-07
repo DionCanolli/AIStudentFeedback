@@ -1,0 +1,239 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dion Canolli\\Desktop\\AIStudentFeedback\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5C82896E-8E43-4CBB-B001-8DF881AF59EC}|AIStudentFeedback\\AIStudentFeedback.csproj|c:\\users\\dion canolli\\desktop\\aistudentfeedback\\aistudentfeedback\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5C82896E-8E43-4CBB-B001-8DF881AF59EC}|AIStudentFeedback\\AIStudentFeedback.csproj|solutionrelative:aistudentfeedback\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C82896E-8E43-4CBB-B001-8DF881AF59EC}|AIStudentFeedback\\AIStudentFeedback.csproj|c:\\users\\dion canolli\\desktop\\aistudentfeedback\\aistudentfeedback\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C82896E-8E43-4CBB-B001-8DF881AF59EC}|AIStudentFeedback\\AIStudentFeedback.csproj|solutionrelative:aistudentfeedback\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C82896E-8E43-4CBB-B001-8DF881AF59EC}|AIStudentFeedback\\AIStudentFeedback.csproj|c:\\users\\dion canolli\\desktop\\aistudentfeedback\\aistudentfeedback\\services\\nlpservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C82896E-8E43-4CBB-B001-8DF881AF59EC}|AIStudentFeedback\\AIStudentFeedback.csproj|solutionrelative:aistudentfeedback\\services\\nlpservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C82896E-8E43-4CBB-B001-8DF881AF59EC}|AIStudentFeedback\\AIStudentFeedback.csproj|c:\\users\\dion canolli\\desktop\\aistudentfeedback\\aistudentfeedback\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C82896E-8E43-4CBB-B001-8DF881AF59EC}|AIStudentFeedback\\AIStudentFeedback.csproj|solutionrelative:aistudentfeedback\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C82896E-8E43-4CBB-B001-8DF881AF59EC}|AIStudentFeedback\\AIStudentFeedback.csproj|c:\\users\\dion canolli\\desktop\\aistudentfeedback\\aistudentfeedback\\pages\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C82896E-8E43-4CBB-B001-8DF881AF59EC}|AIStudentFeedback\\AIStudentFeedback.csproj|solutionrelative:aistudentfeedback\\pages\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C82896E-8E43-4CBB-B001-8DF881AF59EC}|AIStudentFeedback\\AIStudentFeedback.csproj|c:\\users\\dion canolli\\desktop\\aistudentfeedback\\aistudentfeedback\\pages\\dashboard\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C82896E-8E43-4CBB-B001-8DF881AF59EC}|AIStudentFeedback\\AIStudentFeedback.csproj|solutionrelative:aistudentfeedback\\pages\\dashboard\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C82896E-8E43-4CBB-B001-8DF881AF59EC}|AIStudentFeedback\\AIStudentFeedback.csproj|c:\\users\\dion canolli\\desktop\\aistudentfeedback\\aistudentfeedback\\pages\\feedback\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C82896E-8E43-4CBB-B001-8DF881AF59EC}|AIStudentFeedback\\AIStudentFeedback.csproj|solutionrelative:aistudentfeedback\\pages\\feedback\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C82896E-8E43-4CBB-B001-8DF881AF59EC}|AIStudentFeedback\\AIStudentFeedback.csproj|c:\\users\\dion canolli\\desktop\\aistudentfeedback\\aistudentfeedback\\pages\\feedback\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C82896E-8E43-4CBB-B001-8DF881AF59EC}|AIStudentFeedback\\AIStudentFeedback.csproj|solutionrelative:aistudentfeedback\\pages\\feedback\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C82896E-8E43-4CBB-B001-8DF881AF59EC}|AIStudentFeedback\\AIStudentFeedback.csproj|c:\\users\\dion canolli\\desktop\\aistudentfeedback\\aistudentfeedback\\data\\feedbackcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C82896E-8E43-4CBB-B001-8DF881AF59EC}|AIStudentFeedback\\AIStudentFeedback.csproj|solutionrelative:aistudentfeedback\\data\\feedbackcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C82896E-8E43-4CBB-B001-8DF881AF59EC}|AIStudentFeedback\\AIStudentFeedback.csproj|c:\\users\\dion canolli\\desktop\\aistudentfeedback\\aistudentfeedback\\aistudentfeedback.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5C82896E-8E43-4CBB-B001-8DF881AF59EC}|AIStudentFeedback\\AIStudentFeedback.csproj|solutionrelative:aistudentfeedback\\aistudentfeedback.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C82896E-8E43-4CBB-B001-8DF881AF59EC}|AIStudentFeedback\\AIStudentFeedback.csproj|c:\\users\\dion canolli\\desktop\\aistudentfeedback\\aistudentfeedback\\models\\studentfeedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C82896E-8E43-4CBB-B001-8DF881AF59EC}|AIStudentFeedback\\AIStudentFeedback.csproj|solutionrelative:aistudentfeedback\\models\\studentfeedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:14:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:15:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:16:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:17:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:18:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:19:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:20:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dion Canolli\\Desktop\\AIStudentFeedback\\AIStudentFeedback\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "AIStudentFeedback\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Dion Canolli\\Desktop\\AIStudentFeedback\\AIStudentFeedback\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "AIStudentFeedback\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-02T07:00:52.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Dion Canolli\\Desktop\\AIStudentFeedback\\AIStudentFeedback\\appsettings.json",
+              "RelativeDocumentMoniker": "AIStudentFeedback\\appsettings.json",
+              "ToolTip": "C:\\Users\\Dion Canolli\\Desktop\\AIStudentFeedback\\AIStudentFeedback\\appsettings.json",
+              "RelativeToolTip": "AIStudentFeedback\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-02T07:00:29.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dion Canolli\\Desktop\\AIStudentFeedback\\AIStudentFeedback\\Program.cs",
+              "RelativeDocumentMoniker": "AIStudentFeedback\\Program.cs",
+              "ToolTip": "C:\\Users\\Dion Canolli\\Desktop\\AIStudentFeedback\\AIStudentFeedback\\Program.cs",
+              "RelativeToolTip": "AIStudentFeedback\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAvwB4AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T07:00:10.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Dion Canolli\\Desktop\\AIStudentFeedback\\AIStudentFeedback\\Pages\\Dashboard\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "AIStudentFeedback\\Pages\\Dashboard\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\Dion Canolli\\Desktop\\AIStudentFeedback\\AIStudentFeedback\\Pages\\Dashboard\\Index.cshtml.cs",
+              "RelativeToolTip": "AIStudentFeedback\\Pages\\Dashboard\\Index.cshtml.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAuwDMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T06:59:43.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Dion Canolli\\Desktop\\AIStudentFeedback\\AIStudentFeedback\\Pages\\Feedback\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "AIStudentFeedback\\Pages\\Feedback\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\Dion Canolli\\Desktop\\AIStudentFeedback\\AIStudentFeedback\\Pages\\Feedback\\Index.cshtml.cs",
+              "RelativeToolTip": "AIStudentFeedback\\Pages\\Feedback\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T06:59:25.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dion Canolli\\Desktop\\AIStudentFeedback\\AIStudentFeedback\\Pages\\Feedback\\Index.cshtml",
+              "RelativeDocumentMoniker": "AIStudentFeedback\\Pages\\Feedback\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Dion Canolli\\Desktop\\AIStudentFeedback\\AIStudentFeedback\\Pages\\Feedback\\Index.cshtml",
+              "RelativeToolTip": "AIStudentFeedback\\Pages\\Feedback\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-02T06:59:13.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AIStudentFeedback",
+              "DocumentMoniker": "C:\\Users\\Dion Canolli\\Desktop\\AIStudentFeedback\\AIStudentFeedback\\AIStudentFeedback.csproj",
+              "RelativeDocumentMoniker": "AIStudentFeedback\\AIStudentFeedback.csproj",
+              "ToolTip": "C:\\Users\\Dion Canolli\\Desktop\\AIStudentFeedback\\AIStudentFeedback\\AIStudentFeedback.csproj",
+              "RelativeToolTip": "AIStudentFeedback\\AIStudentFeedback.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-02T06:58:00.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dion Canolli\\Desktop\\AIStudentFeedback\\AIStudentFeedback\\Pages\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "AIStudentFeedback\\Pages\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Dion Canolli\\Desktop\\AIStudentFeedback\\AIStudentFeedback\\Pages\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "AIStudentFeedback\\Pages\\Dashboard\\Index.cshtml",
+              "ViewState": "AgIAACUAAAAAAAAAAAAuwGcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-02T06:54:33.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NlpService.cs",
+              "DocumentMoniker": "C:\\Users\\Dion Canolli\\Desktop\\AIStudentFeedback\\AIStudentFeedback\\Services\\NlpService.cs",
+              "RelativeDocumentMoniker": "AIStudentFeedback\\Services\\NlpService.cs",
+              "ToolTip": "C:\\Users\\Dion Canolli\\Desktop\\AIStudentFeedback\\AIStudentFeedback\\Services\\NlpService.cs",
+              "RelativeToolTip": "AIStudentFeedback\\Services\\NlpService.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAkwP0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T06:52:39.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "StudentFeedback.cs",
+              "DocumentMoniker": "C:\\Users\\Dion Canolli\\Desktop\\AIStudentFeedback\\AIStudentFeedback\\Models\\StudentFeedback.cs",
+              "RelativeDocumentMoniker": "AIStudentFeedback\\Models\\StudentFeedback.cs",
+              "ToolTip": "C:\\Users\\Dion Canolli\\Desktop\\AIStudentFeedback\\AIStudentFeedback\\Models\\StudentFeedback.cs",
+              "RelativeToolTip": "AIStudentFeedback\\Models\\StudentFeedback.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T06:52:27.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FeedbackContext.cs",
+              "DocumentMoniker": "C:\\Users\\Dion Canolli\\Desktop\\AIStudentFeedback\\AIStudentFeedback\\Data\\FeedbackContext.cs",
+              "RelativeDocumentMoniker": "AIStudentFeedback\\Data\\FeedbackContext.cs",
+              "ToolTip": "C:\\Users\\Dion Canolli\\Desktop\\AIStudentFeedback\\AIStudentFeedback\\Data\\FeedbackContext.cs",
+              "RelativeToolTip": "AIStudentFeedback\\Data\\FeedbackContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T06:52:17.514Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

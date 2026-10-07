@@ -1,0 +1,30 @@
+﻿@page
+@model AIFeedbackSystem.Pages.Feedback.IndexModel
+@{
+    ViewData["Title"] = "Submit Feedback";
+}
+
+<section class="intro">
+    <p class="eyebrow">Share a comment</p>
+    <h1>How is the course going?</h1>
+    <p class="lede">Write what stood out. The comment is saved with a sentiment and a topic, and it shows up on the dashboard.</p>
+</section>
+
+<section class="panel">
+    @if (Model.Message != null)
+    {
+        <p class="notice @(Model.MessageIsWarning ? "warning" : null)">@Model.Message</p>
+    }
+
+    <form method="post">
+        <div class="field">
+            <label asp-for="StudentName">Your name, if you want it recorded</label>
+            <input asp-for="StudentName" placeholder="e.g. Albi" />
+        </div>
+        <div class="field">
+            <label asp-for="CommentText">Your feedback</label>
+            <textarea asp-for="CommentText" rows="6" required placeholder="The labs were clear, but the projector in room 2 kept cutting out."></textarea>
+        </div>
+        <button type="submit" class="submit">Submit feedback</button>
+    </form>
+</section>
